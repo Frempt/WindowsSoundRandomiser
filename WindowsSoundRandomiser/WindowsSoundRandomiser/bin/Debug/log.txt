@@ -1,0 +1,28 @@
+17/12/2014 18:26:25: Startup registry key created.
+17/12/2014 18:27:32: Startup registry key created.
+17/12/2014 18:27:54: Startup registry key created.
+17/12/2014 18:28:28: Startup registry key created.
+17/12/2014 18:28:42: Device connect detected
+17/12/2014 18:28:47: Device disconnect detected
+17/12/2014 18:31:24: Startup registry key created.
+17/12/2014 18:31:38: Device connect detected
+17/12/2014 18:31:42: Device disconnect detected
+17/12/2014 18:32:49: Startup registry key created.
+17/12/2014 18:32:49: DeviceConnect event sound changed.
+17/12/2014 18:33:00: Device connect detected
+17/12/2014 18:33:00: DeviceConnect event sound changed.
+17/12/2014 18:33:03: DeviceConnect event sound changed.
+17/12/2014 18:33:03: Device disconnect detected
+17/12/2014 18:33:03: DeviceDisconnect event sound changed.
+17/12/2014 18:33:20: DeviceConnect event sound changed.
+17/12/2014 18:33:22: DeviceConnect event sound changed.
+17/12/2014 18:33:30: DeviceConnect event sound changed.
+17/12/2014 18:33:32: DeviceConnect event sound changed.
+17/12/2014 18:33:41: DeviceConnect event sound changed.
+17/12/2014 18:33:53: DeviceConnect event sound changed.
+17/12/2014 18:34:32: Startup registry key created.
+17/12/2014 18:34:32: DeviceConnect event sound changed.
+17/12/2014 18:54:07: Startup registry key created.
+17/12/2014 18:54:07: DeviceConnect event sound changed.
+19/12/2014 18:35:59: Startup registry key created.
+19/12/2014 18:38:55: Startup registry key created.

@@ -1,0 +1,14 @@
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\bin\Debug\WindowsSoundRandomiser.exe.config
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\bin\Debug\WindowsSoundRandomiser.exe
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\bin\Debug\WindowsSoundRandomiser.pdb
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.csprojResolveAssemblyReference.cache
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.Properties.Resources.resources
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.csproj.GenerateResource.Cache
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.exe
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.pdb
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.Form1.resources
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.EventEdit.resources
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\bin\Debug\WindowsSoundRandomiser.exe.manifest
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\bin\Debug\WindowsSoundRandomiser.application
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.exe.manifest
+C:\Users\Frempt\Dropbox\Projects\WindowsSoundRandomiser\WindowsSoundRandomiser\WindowsSoundRandomiser\obj\Debug\WindowsSoundRandomiser.application
